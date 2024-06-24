@@ -27,8 +27,8 @@ who died.
 
 POPULATION DATA
 
-*SOURCE: Census
-*The data set contains the population of the people in each state in the US, which
+* SOURCE: Census
+* The data set contains the population of the people in each state in the US, which
 county they belong to, their age group and gender.
 
 DATA LIMITATIONS
@@ -80,10 +80,12 @@ DATASET LINKS
 
 1. Influenza deaths by geography
 
-Source: [CDC]
-[Download Data Set]
+Source: [[CDC]](https://wonder.cdc.gov/ucd-icd10.html)
+
+[[Download Data Set]](https://coach-courses-us.s3.amazonaws.com/public/courses/da_program/CDC_Influenza_Deaths_edited.xlsx)
 
 2. Population data by geography, time, age, and gender
 
 Source: US Census Bureau
-[Download Data Set]
+
+[[Download Data Set]](https://coach-courses-us.s3.amazonaws.com/public/courses/data-immersion/A1-A2_Influenza_Project/Census_Population_transformed_202101.csv)
